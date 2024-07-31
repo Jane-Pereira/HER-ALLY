@@ -6,6 +6,7 @@ This project is designed to detect specific exercises using real-time webcam inp
   1. Shoulder Shrug
   2. Bent Arm Forward
   3. Bent Arm Sideways
+     
 The project uses OpenCV and MediaPipe for pose estimation and provides real-time feedback through text-to-speech and visual annotations.
 
 # Salient Features
